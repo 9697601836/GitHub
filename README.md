@@ -1,17 +1,18 @@
 # GitHub
+
 HW_1
 
 JSON
 
-[Link]([https://github.com/9697601836/JSON])
+Link
 
 XML
 
-[Link]([https://github.com/9697601836/XML])
+Link
 
 TXT
 
-[Link]([https://github.com/9697601836/TXT])
+Link
 
 HW_2
 
@@ -32,3 +33,4 @@ HW_2
 8. Запушить структуру на внешний репозиторий
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 10. Синхронизировать Внешнюю и Локальную ветки Main
+
