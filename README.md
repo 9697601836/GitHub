@@ -3,15 +3,15 @@ HW_1
 
 JSON
 
-[Link]([url](https://github.com/9697601836/JSON))
+[Link]([https://github.com/9697601836/JSON])
 
 XML
 
-[Link]([url](https://github.com/9697601836/XML))
+[Link]([https://github.com/9697601836/XML])
 
 TXT
 
-[Link]([url](https://github.com/9697601836/TXT))
+[Link]([https://github.com/9697601836/TXT])
 
 HW_2
 
