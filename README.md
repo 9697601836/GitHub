@@ -2,17 +2,11 @@
 
 HW_1
 
-JSON
+JSON: https://github.com/9697601836/JSON
 
-Link
+XML: https://github.com/9697601836/XML
 
-XML
-
-Link
-
-TXT
-
-Link
+TXT: https://github.com/9697601836/TXT
 
 HW_2
 
