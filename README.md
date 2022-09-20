@@ -11,13 +11,13 @@ TXT: https://github.com/9697601836/TXT
 HW_2
 
 1. На локальном репозитории сделать ветки для:
-- Postman
-- Jmeter
-- CheckLists
-- Bag Reports
-- SQL
-- Charles
-- Mobile testing
+- Postman: https://github.com/9697601836/Postman
+- Jmeter: https://github.com/9697601836/JMeter
+- CheckLists: https://github.com/9697601836/CheckLists
+- Bag Reports: https://github.com/9697601836/BugReports
+- SQL: https://github.com/9697601836/SQL
+- Charles: https://github.com/9697601836/Charles
+- Mobile testing: https://github.com/9697601836/MobileTesting
 2. Запушить все ветки на внешний репозиторий
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 4. Запушить структуру багрепорта на внешний репозиторий
